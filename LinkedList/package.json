@@ -1,0 +1,16 @@
+{
+  "name": "LinkedList",
+  "version": "1.0.0",
+  "main": "LinkedList.ts",
+  "author": "Jollyn",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon",
+    "start": "npx ts-node ./src/LinkedList"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
